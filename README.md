@@ -1,2 +1,2 @@
 # shopify_dashboard
-![Alt Text](https://github.com/username/repo-name/blob/branch-name/path/to/image.png?raw=true)
+![Shopify_dashboard](https://github.com/ganesh-0526/shopify_dashboard/blob/main/Screenshot%202025-08-15%20222057.png?raw=true)
